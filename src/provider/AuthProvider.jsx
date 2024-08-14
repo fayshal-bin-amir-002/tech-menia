@@ -44,9 +44,8 @@ const AuthProvider = ({ children }) => {
 
     const saveUser = async (user) => {
         const email = user?.email;
-        const role = "member";
-
-        const newUser = { email, role };
+        
+        const newUser = { email };
 
         await axiosPublic.post("/users", newUser);
     }
@@ -70,7 +69,7 @@ const AuthProvider = ({ children }) => {
             return unSubscribe();
         }
     }, []);
-
+console.log(user);
     const authData = { user, loading, userRegister, userLogin, userLogOut, userGoogleLogin, updateUserProfile };
 
     return (

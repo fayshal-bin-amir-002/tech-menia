@@ -1,6 +1,7 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link, Navigate, useNavigate } from "react-router-dom";
 import useAuth from "../hooks/useAuth";
 import { useState } from "react";
+import toast from "react-hot-toast";
 
 const Login = () => {
 
@@ -10,11 +11,47 @@ const Login = () => {
 
     const [processing, setProcessing] = useState(false);
 
+    const handleLogin = async (e) => {
+        e.preventDefault();
+        setProcessing(true);
+
+        const form = e.target;
+        const email = form.email.value;
+        const password = form.password.value;
+
+        await userLogin(email, password)
+            .then(() => {
+                setProcessing(false);
+                navigate("/");
+                toast.success("Logged in successfully.");
+            })
+            .catch((error) => {
+                setProcessing(false);
+                toast.error(error.message);
+            })
+    }
+
+    const handleGoogleLogin = async () => {
+        setProcessing(true);
+        await userGoogleLogin()
+            .then(() => {
+                setProcessing(false);
+                navigate(location?.state ? location.state : "/");
+                toast.success("Logged in successfully.");
+            })
+            .catch((error) => {
+                setProcessing(false);
+                toast.error(error.message);
+            })
+    }
+
+    if (user) return <Navigate to="/"></Navigate>
+
     return (
         <div className="min-h-screen flex items-center justify-center w-full">
             <div className="bg-white shadow-md rounded-lg px-8 py-6 w-full max-w-md">
                 <h1 className="text-2xl font-bold text-center mb-4 dark:text-gray-200">Welcome Back!</h1>
-                <form action="#">
+                <form onSubmit={handleLogin}>
                     <div className="mb-4">
                         <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Email Address</label>
                         <input name="email" type="email" id="email" className="shadow-sm rounded-md w-full px-3 py-2 border border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500" placeholder="your@email.com" required />
@@ -26,7 +63,7 @@ const Login = () => {
                     <button disabled={processing} type="submit" className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:cursor-not-allowed">Login</button>
                 </form>
                 <div className="divider">OR</div>
-                <button disabled={processing} className="flex items-center justify-center mt-4 text-white rounded-lg shadow-md hover:bg-gray-100 w-full disabled:cursor-not-allowed">
+                <button onClick={handleGoogleLogin} disabled={processing} className="flex items-center justify-center mt-4 text-white rounded-lg shadow-md hover:bg-gray-100 w-full disabled:cursor-not-allowed">
                     <div className="px-4 py-3">
                         <svg className="h-6 w-6" viewBox="0 0 40 40">
                             <path
