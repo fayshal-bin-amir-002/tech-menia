@@ -1,0 +1,122 @@
+[
+    {
+        "productName": "Galaxy S22 Ultra",
+        "brandName": "Samsung",
+        "productImage": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S22-ULTRA-5G-256GB-GREEN-Unlocked_74f7eb8f-8c14-4192-bff8-1bd1e91a3b97.f4f2dc71a43be3abebbcfd157bc81500.jpeg",
+        "description": "Samsung Galaxy S22 Ultra with 108MP camera and 5,000mAh battery.",
+        "price": 1199,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T10:00:00Z"
+    },
+    {
+        "productName": "iPhone 14 Pro",
+        "brandName": "Apple",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-7300.jpg",
+        "description": "Apple iPhone 14 Pro with A16 Bionic chip and ProMotion display.",
+        "price": 1099,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T11:00:00Z"
+    },
+    {
+        "productName": "Google Pixel 7",
+        "brandName": "Google",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-7-Obsidian-1130.jpg",
+        "description": "Google Pixel 7 with advanced AI features and stunning camera performance.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T12:00:00Z"
+    },
+    {
+        "productName": "MacBook Pro 14-inch",
+        "brandName": "Apple",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/3710-49683.jpg",
+        "description": "Apple MacBook Pro 14-inch with M1 Pro chip and Liquid Retina XDR display.",
+        "price": 1999,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T13:00:00Z"
+    },
+    {
+        "productName": "Dell XPS 13",
+        "brandName": "Dell",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/009-Dell-XPS.jpg",
+        "description": "Dell XPS 13 with 11th Gen Intel Core i7 and InfinityEdge display.",
+        "price": 1499,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T14:00:00Z"
+    },
+    {
+        "productName": "HP Spectre x360",
+        "brandName": "HP",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/HP-Spectre-x360-15-Price-in-BD.jpg",
+        "description": "HP Spectre x360 with 360° hinge and AMOLED display.",
+        "price": 1399,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T15:00:00Z"
+    },
+    {
+        "productName": "Apple Watch Series 8",
+        "brandName": "Apple",
+        "productImage": "https://images.moneycontrol.com/static-mcnews/2022/10/apple-smartwatch.jpg",
+        "description": "Apple Watch Series 8 with advanced health monitoring features.",
+        "price": 399,
+        "category": "Watch",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T16:00:00Z"
+    },
+    {
+        "productName": "Samsung Galaxy Watch 5",
+        "brandName": "Samsung",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch5-Graphite-8490.jpg",
+        "description": "Samsung Galaxy Watch 5 with long battery life and fitness tracking.",
+        "price": 299,
+        "category": "Watch",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T17:00:00Z"
+    },
+    {
+        "productName": "Garmin Fenix 7",
+        "brandName": "Garmin",
+        "productImage": "https://res.garmin.com/en/products/010-02540-34/v/cf-lg.jpg",
+        "description": "Garmin Fenix 7 with rugged design and multi-sport tracking.",
+        "price": 499,
+        "category": "Watch",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T18:00:00Z"
+    },
+    {
+        "productName": "iPad Pro 12.9-inch",
+        "brandName": "Apple",
+        "productImage": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20221118_1668765211_897604.jpeg",
+        "description": "Apple iPad Pro 12.9-inch with M1 chip and Liquid Retina XDR display.",
+        "price": 1099,
+        "category": "Tablet",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T19:00:00Z"
+    },
+    {
+        "productName": "Samsung Galaxy Tab S8+",
+        "brandName": "Samsung",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/5034-23715.jpg",
+        "description": "Samsung Galaxy Tab S8+ with S Pen and Super AMOLED display.",
+        "price": 899,
+        "category": "Tablet",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T20:00:00Z"
+    },
+    {
+        "productName": "Microsoft Surface Pro 9",
+        "brandName": "Microsoft",
+        "productImage": "https://www.custommacbd.com/cdn/shop/products/Surface-pro-9-Custom-Mac-BD_9c94f38c-f9aa-4493-b68e-9feb54dd33db.jpg",
+        "description": "Microsoft Surface Pro 9 with detachable keyboard and 2-in-1 functionality.",
+        "price": 999,
+        "category": "Tablet",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T21:00:00Z"
+    }
+]
