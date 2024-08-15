@@ -147,7 +147,7 @@ const Home = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
 
                         {
-                            products.length > 0 ? products.map((product) => <ProductCard key={product._id} product={product}></ProductCard>) : <h3 className="h-[50vh] text-3xl text-center font-semibold flex items-center justify-center">No Product Found!</h3>
+                            products.length > 0 ? products.map((product) => <ProductCard key={product._id} product={product}></ProductCard>) : <div className=" col-span-1 md:col-span-2 lg:col-span-4"><h3 className="h-[50vh] text-3xl text-center  font-semibold flex items-center justify-center">No Product Found!</h3></div>
                         }
                     </div>
             }

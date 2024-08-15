@@ -130,3 +130,421 @@
         "productCreationDate": "2024-08-14T22:00:00Z"
     }
 ]
+
+[
+    {
+        "productName": "Canon EOS R5",
+        "brandName": "Canon",
+        "productImage": "https://www.startech.com.bd/image/cache/catalog/camera/dslr-camera/canon/eos-r5/eos-r5-01-500x500.webp",
+        "description": "Canon EOS R5 with 45MP full-frame CMOS sensor and 8K video recording capability.",
+        "price": 3899,
+        "category": "Camera",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T10:00:00Z"
+    },
+    {
+        "productName": "Nikon Z7 II",
+        "brandName": "Nikon",
+        "productImage": "https://cloudfront.slrlounge.com/wp-content/uploads/2021/03/Nikon-Z7-ii-review-full-frame-mirrorless.jpg",
+        "description": "Nikon Z7 II with 45.7MP full-frame sensor and dual EXPEED 6 processors.",
+        "price": 2999,
+        "category": "Camera",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T11:00:00Z"
+    },
+    {
+        "productName": "Sony Alpha 1",
+        "brandName": "Sony",
+        "productImage": "https://www.startech.com.bd/image/cache/catalog/camera/mirriorless/sony/alpha-1/alpha-1-01-500x500.webp",
+        "description": "Sony Alpha 1 with 50.1MP full-frame sensor and 8K video recording.",
+        "price": 6499,
+        "category": "Camera",
+        "ratings": 5,
+        "productCreationDate": "2024-08-14T12:00:00Z"
+    },
+    {
+        "productName": "Fujifilm X-T4",
+        "brandName": "Fujifilm",
+        "productImage": "https://www.startech.com.bd/image/cache/catalog/camera/mirriorless/fujifilm/x-t4/x-t4-01-500x500.webp",
+        "description": "Fujifilm X-T4 with 26.1MP APS-C sensor and 4K video recording.",
+        "price": 1699,
+        "category": "Camera",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T13:00:00Z"
+    },
+    {
+        "productName": "Panasonic Lumix S5",
+        "brandName": "Panasonic",
+        "productImage": "https://i5.walmartimages.com/seo/Panasonic-Lumix-DC-S5-Mirrorless-Digital-Camera-Body-Only_b9fe7781-c625-4480-91f5-639056671778.de51fad4b825ef32dd8f181e89f5f04d.jpeg",
+        "description": "Panasonic Lumix S5 with 24.2MP full-frame sensor and 4K 60p video recording.",
+        "price": 1999,
+        "category": "Camera",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T14:00:00Z"
+    }
+]
+
+[
+    {
+        "productName": "TP-Link Archer AX6000",
+        "brandName": "TP-Link",
+        "productImage": "https://www.highspeedinternet.com/app/uploads/2022/11/tp-link-archer-ax6000-angle-shot.jpg",
+        "description": "TP-Link Archer AX6000 Wi-Fi 6 Router with 8-stream connectivity and 2.5 Gbps wired speed.",
+        "price": 349,
+        "category": "Router",
+        "ratings": 5,
+        "productCreationDate": "2024-07-14T15:00:00Z"
+    },
+    {
+        "productName": "Netgear Nighthawk AX12",
+        "brandName": "Netgear",
+        "productImage": "https://vibegaming.com.bd/wp-content/uploads/2022/08/rax120-nighthawk-3-500x500-1.jpg",
+        "description": "Netgear Nighthawk AX12 12-stream Wi-Fi 6 Router with up to 10.8Gbps speed and 8 high-performance antennas.",
+        "price": 499,
+        "category": "Router",
+        "ratings": 4,
+        "productCreationDate": "2024-04-14T16:00:00Z"
+    },
+    {
+        "productName": "Asus RT-AX88U",
+        "brandName": "Asus",
+        "productImage": "https://www.ultratech.com.bd/image/cache/2021/12/asus-rt-ax88u-ax6000-dual-band-wifi-6-router-3-1-500x500.jpg.webp",
+        "description": "Asus RT-AX88U Dual-Band Wi-Fi 6 Router with 8 LAN ports and AiProtection Pro security.",
+        "price": 299,
+        "category": "Router",
+        "ratings": 5,
+        "productCreationDate": "2024-03-14T17:00:00Z"
+    },
+    {
+        "productName": "Linksys Velop MX10",
+        "brandName": "Linksys",
+        "productImage": "https://i.pcmag.com/imagery/reviews/03YPYGR9Ixvpp7yfku0j9Bj-13.fit_scale.size_760x427.v1578533873.jpg",
+        "description": "Linksys Velop MX10 Mesh Wi-Fi 6 System with up to 6000 sq ft coverage and 5.3Gbps speed.",
+        "price": 599,
+        "category": "Router",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T18:00:00Z"
+    },
+    {
+        "productName": "Google Nest WiFi",
+        "brandName": "Google",
+        "productImage": "https://smartlife.com.bd/wp-content/uploads/2023/03/Nest-Wifi.jpg",
+        "description": "Google Nest WiFi Router with mesh technology and up to 2200 sq ft coverage.",
+        "price": 169,
+        "category": "Router",
+        "ratings": 4,
+        "productCreationDate": "2024-01-14T19:00:00Z"
+    }
+]
+
+[
+    {
+        "productName": "JBL Charge 5",
+        "brandName": "JBL",
+        "productImage": "https://jblstore.com.ph/cdn/shop/files/JBLChartge5Gray_2000x.png?v=1723021690",
+        "description": "JBL Charge 5 portable Bluetooth speaker with powerful sound, built-in power bank, and waterproof design.",
+        "price": 179,
+        "category": "Speaker",
+        "ratings": 5,
+        "productCreationDate": "2024-08-10T10:00:00Z"
+    },
+    {
+        "productName": "Bose SoundLink Revolve+ II",
+        "brandName": "Bose",
+        "productImage": "https://cdn.dxomark.com/wp-content/uploads/medias/post-74427/bose_soundlink_revolveII.jpg",
+        "description": "Bose SoundLink Revolve+ II Bluetooth speaker with 360-degree sound and durable, portable design.",
+        "price": 329,
+        "category": "Speaker",
+        "ratings": 5,
+        "productCreationDate": "2024-08-12T12:30:00Z"
+    },
+    {
+        "productName": "Sonos Move",
+        "brandName": "Sonos",
+        "productImage": "https://m.media-amazon.com/images/I/41WJXMPx7zL._AC_.jpg",
+        "description": "Sonos Move smart portable Wi-Fi and Bluetooth speaker with voice control and weather-resistant design.",
+        "price": 399,
+        "category": "Speaker",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T15:45:00Z"
+    },
+    {
+        "productName": "Marshall Emberton",
+        "brandName": "Marshall",
+        "productImage": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20230120_1674207999_723219.jpeg",
+        "description": "Marshall Emberton compact portable speaker with rich, powerful sound and durable build.",
+        "price": 149,
+        "category": "Speaker",
+        "ratings": 4,
+        "productCreationDate": "2024-08-08T09:20:00Z"
+    },
+    {
+        "productName": "Sony SRS-XB43",
+        "brandName": "Sony",
+        "productImage": "https://m.media-amazon.com/images/I/71bAFHccQ+L._AC_SL1200_.jpg",
+        "description": "Sony SRS-XB43 Bluetooth speaker with extra bass, party lights, and IP67 waterproof rating.",
+        "price": 249,
+        "category": "Speaker",
+        "ratings": 4,
+        "productCreationDate": "2024-08-05T18:00:00Z"
+    }
+]
+
+[
+    {
+        "productName": "Apple iPhone 14 Pro",
+        "brandName": "Apple",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Deep-Purple-7300.jpg",
+        "description": "Apple iPhone 14 Pro with A16 Bionic chip, ProMotion display, and triple 12MP camera system.",
+        "price": 999,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-01T10:00:00Z"
+    },
+    {
+        "productName": "Samsung Galaxy S23 Ultra",
+        "brandName": "Samsung",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Sky-Blue-2618.jpg",
+        "description": "Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2, 6.8-inch Dynamic AMOLED display, and 108MP camera.",
+        "price": 1199,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-02T11:30:00Z"
+    },
+    {
+        "productName": "Google Pixel 7 Pro",
+        "brandName": "Google",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-7-Pro-Snow-8255.jpg",
+        "description": "Google Pixel 7 Pro with Google Tensor G2 chip, 6.7-inch OLED display, and 50MP main camera.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-03T09:45:00Z"
+    },
+    {
+        "productName": "OnePlus 11",
+        "brandName": "OnePlus",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/OnePlus-11-(3)-4957.jpg",
+        "description": "OnePlus 11 with Snapdragon 8 Gen 2, 6.7-inch Fluid AMOLED display, and Hasselblad triple camera.",
+        "price": 799,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-04T14:15:00Z"
+    },
+    {
+        "productName": "Sony Xperia 1 V",
+        "brandName": "Sony",
+        "productImage": "https://m.media-amazon.com/images/I/71i6juGOhlL._AC_SL1500_.jpg",
+        "description": "Sony Xperia 1 V with Snapdragon 8 Gen 2, 4K HDR OLED display, and triple 12MP camera system.",
+        "price": 1299,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-05T13:50:00Z"
+    },
+    {
+        "productName": "Xiaomi Mi 13 Pro",
+        "brandName": "Xiaomi",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Xiaomi-13-Pro-Ceramic-Black-4613.jpg",
+        "description": "Xiaomi Mi 13 Pro with Snapdragon 8 Gen 2, 6.73-inch AMOLED display, and Leica-branded camera system.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-06T12:00:00Z"
+    },
+    {
+        "productName": "Huawei P60 Pro",
+        "brandName": "Huawei",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/HUAWEI-P60-Pro-Black-1959.jpg",
+        "description": "Huawei P60 Pro with Kirin 9000S chip, 6.76-inch OLED display, and 50MP Ultra Vision camera.",
+        "price": 1099,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-07T15:30:00Z"
+    },
+    {
+        "productName": "Oppo Find X6 Pro",
+        "brandName": "Oppo",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/OPPO-Find-X6-Pro-Green-9486.jpg",
+        "description": "Oppo Find X6 Pro with Snapdragon 8 Gen 2, 6.82-inch AMOLED display, and 50MP triple camera setup.",
+        "price": 1049,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-08T11:00:00Z"
+    },
+    {
+        "productName": "Realme GT Neo 5",
+        "brandName": "Realme",
+        "productImage": "https://www.mobiledokan.co/wp-content/uploads/2022/11/Realme-GT-Neo-5-White.jpg",
+        "description": "Realme GT Neo 5 with MediaTek Dimensity 9000+, 6.7-inch AMOLED display, and 64MP AI camera.",
+        "price": 599,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-09T10:25:00Z"
+    },
+    {
+        "productName": "Motorola Edge 40 Pro",
+        "brandName": "Motorola",
+        "productImage": "https://www.mobiledokan.co/wp-content/uploads/2022/11/Motorola-Edge-40-Pro-Lunar-Blue.jpg",
+        "description": "Motorola Edge 40 Pro with Snapdragon 8 Gen 2, 6.67-inch OLED display, and 50MP quad camera setup.",
+        "price": 799,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-10T16:45:00Z"
+    }
+]
+
+[
+    {
+        "productName": "Vivo X90 Pro+",
+        "brandName": "Vivo",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/Vivo-X90-Pro+-Black-7716.jpg",
+        "description": "Vivo X90 Pro+ with Snapdragon 8 Gen 2, 6.78-inch AMOLED display, and 50MP quad camera setup.",
+        "price": 1099,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-11T10:00:00Z"
+    },
+    {
+        "productName": "Asus ROG Phone 7",
+        "brandName": "Asus",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/ROG-Phone-7-Ultimate-White-8539.jpg",
+        "description": "Asus ROG Phone 7 with Snapdragon 8 Gen 2, 6.78-inch AMOLED display, and 6000mAh battery for gaming.",
+        "price": 999,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-12T11:30:00Z"
+    },
+    {
+        "productName": "Nokia XR30",
+        "brandName": "Nokia",
+        "productImage": "https://www.gizmochina.com/wp-content/uploads/2023/04/Nokia-XR30-black-front-and-rear-1024x576.jpg",
+        "description": "Nokia XR30 rugged smartphone with 5G support, 6.67-inch display, and 48MP dual camera.",
+        "price": 649,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-13T09:45:00Z"
+    },
+    {
+        "productName": "ZTE Axon 40 Ultra",
+        "brandName": "ZTE",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/ZTE-Axon-40-Ultra-Black-9291.jpg",
+        "description": "ZTE Axon 40 Ultra with Snapdragon 8 Gen 1, 6.8-inch AMOLED display, and 64MP triple camera.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T14:15:00Z"
+    },
+    {
+        "productName": "Lenovo Legion Duel 3",
+        "brandName": "Lenovo",
+        "productImage": "https://p2-ofp.static.pub/fes/cms/2023/01/19/0ked40ju4ei5tzwtz57t05ovuk8l1i170974.png",
+        "description": "Lenovo Legion Duel 3 gaming smartphone with Snapdragon 8 Gen 2, 6.92-inch display, and 5500mAh battery.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 5,
+        "productCreationDate": "2024-08-15T13:50:00Z"
+    }
+]
+
+[
+    {
+        "productName": "Apple MacBook Pro 16\" M2 Max",
+        "brandName": "Apple",
+        "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spaceblack-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697311054290",
+        "description": "Apple MacBook Pro with M2 Max chip, 16-inch Retina display, and 1TB SSD storage.",
+        "price": 3499,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-01T10:00:00Z"
+    },
+    {
+        "productName": "Dell XPS 15",
+        "brandName": "Dell",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/Dell-XPS-15-4-6.jpg",
+        "description": "Dell XPS 15 with Intel Core i9, 15.6-inch 4K UHD display, and 32GB RAM.",
+        "price": 2499,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-02T11:30:00Z"
+    },
+    {
+        "productName": "HP Spectre x360 14",
+        "brandName": "HP",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/Hp-9-1.jpg",
+        "description": "HP Spectre x360 14 with Intel Evo i7, 13.5-inch 3K2K OLED display, and 16GB RAM.",
+        "price": 1699,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-03T09:45:00Z"
+    },
+    {
+        "productName": "Lenovo ThinkPad X1 Carbon Gen 11",
+        "brandName": "Lenovo",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/LENOVO-Thinkpad-13-1.jpg",
+        "description": "Lenovo ThinkPad X1 Carbon with Intel Core i7, 14-inch FHD+ display, and 512GB SSD.",
+        "price": 1999,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-04T14:15:00Z"
+    },
+    {
+        "productName": "Asus ROG Zephyrus G14",
+        "brandName": "Asus",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-1-14.jpg",
+        "description": "Asus ROG Zephyrus G14 with AMD Ryzen 9, 14-inch QHD display, and RTX 3060 GPU.",
+        "price": 1599,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-05T13:50:00Z"
+    },
+    {
+        "productName": "Acer Predator Helios 300",
+        "brandName": "Acer",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/Acer-Predator-Helios-300-PH315-3.jpg",
+        "description": "Acer Predator Helios 300 with Intel Core i7, 15.6-inch FHD display, and RTX 3070 GPU.",
+        "price": 1499,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-06T12:00:00Z"
+    },
+    {
+        "productName": "Microsoft Surface Laptop 5",
+        "brandName": "Microsoft",
+        "productImage": "https://computermania-bd.b-cdn.net/wp-content/uploads/Microsoft-Surface-Laptop-5-Ultrabook-Price-in-BD-2.jpg",
+        "description": "Microsoft Surface Laptop 5 with Intel Core i5, 13.5-inch PixelSense display, and 512GB SSD.",
+        "price": 1399,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-07T15:30:00Z"
+    },
+    {
+        "productName": "Razer Blade 15 Advanced",
+        "brandName": "Razer",
+        "productImage": "https://www.creatuscomputer.com/image/cache/catalog/2022/03/blade-15-advanced-model-02-500x500-1-500x500.jpg.webp",
+        "description": "Razer Blade 15 Advanced with Intel Core i7, 15.6-inch 240Hz QHD display, and RTX 3080 GPU.",
+        "price": 2899,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-08T11:00:00Z"
+    },
+    {
+        "productName": "Samsung Galaxy Book3 Ultra",
+        "brandName": "Samsung",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/SAMSUNG-Galaxy-Book3-Ultra-a-9279.jpg",
+        "description": "Samsung Galaxy Book3 Ultra with Intel Core i9, 16-inch AMOLED display, and 1TB SSD.",
+        "price": 2999,
+        "category": "Laptop",
+        "ratings": 5,
+        "productCreationDate": "2024-08-09T10:25:00Z"
+    },
+    {
+        "productName": "LG Gram 17",
+        "brandName": "LG",
+        "productImage": "https://www.notebookcheck.net/uploads/tx_nbc2/4zu3_LG_Gram_17_17Z90R_neu_01.jpg",
+        "description": "LG Gram 17 with Intel Core i7, 17-inch WQXGA display, and 16GB RAM.",
+        "price": 1799,
+        "category": "Laptop",
+        "ratings": 4,
+        "productCreationDate": "2024-08-10T16:45:00Z"
+    }
+]
