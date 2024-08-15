@@ -1,6 +1,7 @@
 import { Outlet, useNavigation } from "react-router-dom";
 import NavBar from "../components/NavBar";
 import LoadingSpinner from "../components/Loader/LoadingSpinner";
+import Footer from "../components/Footer";
 
 const MainLayout = () => {
 
@@ -13,6 +14,7 @@ const MainLayout = () => {
                 navigation.state === 'loading' ? <LoadingSpinner></LoadingSpinner> :
                     <Outlet></Outlet>
             }
+            <Footer></Footer>
         </div>
     );
 };

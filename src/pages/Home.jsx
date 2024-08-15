@@ -23,8 +23,6 @@ const Home = () => {
         search, brand, category, priceRange, priceSorting, dateSorting
     }
 
-    // console.log(priceRange);
-
     const handleSearch = (e) => {
         e.preventDefault();
         const search = e.target.search.value;
@@ -53,7 +51,7 @@ const Home = () => {
                 setLoading(false);
             })
     }, [])
-    
+
     const pages = [...Array(Math.ceil(parseInt(totalProducts) / 12)).keys()];
 
     const priceRanges = [
@@ -67,8 +65,8 @@ const Home = () => {
         <div className="py-6 md:py-8 lg:py-12">
             {/* search form */}
             <div>
-                <form onSubmit={handleSearch} className="flex justify-center mb-6">
-                    <label className="input input-bordered flex items-center gap-2 w-full lg:w-1/2 mx-auto">
+                <form onSubmit={handleSearch} className="flex justify-end items-center mb-6">
+                    <label className="input input-bordered flex items-center gap-2 w-full lg:w-1/2 ms-auto">
                         <input type="search" name="search" className="grow w-full" placeholder="Search product name" />
                         <button type="submit" className="bg-sky-200 rounded-full px-3 py-2">Search</button>
                     </label>
@@ -140,16 +138,16 @@ const Home = () => {
                     </ul>
                 </div>
             </div>
-            {
+            {/* {
                 products.length === 0 && <h3 className="h-[50vh] text-3xl text-center font-semibold flex items-center justify-center">No Product Found!</h3>
-            }
+            } */}
 
             {
                 loading ? <LoadingSpinner></LoadingSpinner> :
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
 
                         {
-                            products && products.map((product) => <ProductCard key={product._id} product={product}></ProductCard>)
+                            products.length > 0 ? products.map((product) => <ProductCard key={product._id} product={product}></ProductCard>) : <h3 className="h-[50vh] text-3xl text-center font-semibold flex items-center justify-center">No Product Found!</h3>
                         }
                     </div>
             }
