@@ -118,5 +118,15 @@
         "category": "Tablet",
         "ratings": 4,
         "productCreationDate": "2024-08-14T21:00:00Z"
+    },
+    {
+        "productName": "OnePlus 10 Pro",
+        "brandName": "OnePlus",
+        "productImage": "https://adminapi.applegadgetsbd.com/storage/media/large/4920-16716.jpg",
+        "description": "OnePlus 10 Pro with Snapdragon 8 Gen 1 and 120Hz Fluid AMOLED display.",
+        "price": 899,
+        "category": "Phone",
+        "ratings": 4,
+        "productCreationDate": "2024-08-14T22:00:00Z"
     }
 ]

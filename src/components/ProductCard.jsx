@@ -1,11 +1,11 @@
 import PropTypes from 'prop-types';
 
-const ProductCard = ({product}) => { console.log(product);
+const ProductCard = ({product}) => {
     return (
         <div className="overflow-hidden bg-white rounded shadow-md text-slate-500 shadow-slate-200 group">
             
             <figure>
-                <img src={product?.productImage} alt="card image" className="aspect-video w-full object-cover group-hover:scale-90 duration-700" />
+                <img src={product?.productImage} alt="card image" className="aspect-video w-full object-contain group-hover:scale-110 duration-700" />
             </figure>
             
             <div className="p-6">
