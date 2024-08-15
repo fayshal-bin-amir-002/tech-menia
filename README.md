@@ -1,8 +1,16 @@
-# React + Vite
+# Tech Menia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+At Tech Menia, we are passionate about all things tech. Whether you're a gadget enthusiast, a professional looking for the latest tools, or just someone who loves to stay updated with technology trends, we've got you covered. Our platform offers comprehensive reviews, in-depth comparisons, and the latest news on a wide range of tech products including smartphones, laptops, cameras, smartwatches, and more.
 
-Currently, two official plugins are available:
+- Here is all kind of sorting functions for makeing easier the search of products to the users.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Technologies: React, Tailwind Css, Mongodb, Node js, Express Js, Firebase
+
+- [Live Link](https://tech-menia.netlify.app) 
+
+# Run the project locally?
+
+- clone the project (https://github.com/fayshal-bin-amir-002/tech-menia.git)
+- npm i
+- setup the firebase keys
+- setup the imgbb api key
